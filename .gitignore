@@ -1,0 +1,5 @@
+venv/
+output/
+.idea/
+lab_data/
+.DS_Store
